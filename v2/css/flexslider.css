@@ -113,8 +113,8 @@ html[xmlns] .flexslider .slides {
 .flex-direction-nav a {
   text-decoration: none;
   display: block;
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
   margin: -20px 0 0;
   position: absolute;
   top: 50%;
@@ -155,7 +155,7 @@ html[xmlns] .flexslider .slides {
 }
 .flexslider .flex-direction-nav .flex-next {
   opacity: 0.7;
-  right: 41%;
+  right: 44%;
   top: 80%;
 }
 .flexslider .flex-direction-nav .flex-next {
